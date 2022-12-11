@@ -23,7 +23,7 @@ tags: [jekyll, ai]
 ![]()
 
 AI模型說明<br>
-![](https://github.com/willy610515/generative_inpainting)
+![](https://imgur.com/LPUKGTE)
 
 ---
 ### 製作步驟
@@ -35,7 +35,7 @@ AI模型說明<br>
 
 ---
 ### 系統測試及成果展示
-<iframe width="956" height="538" src="https://www.youtube.com/embed/DtzN5vtEgOk" title="RL-Robocar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="956" height="538" src="https://www.youtube.com/embed/dQw4w9WgXcQ" title="Rick Astley - Never Gonna Give You Up (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 <br>
