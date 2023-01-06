@@ -15,13 +15,13 @@ tags: [jekyll, ai]
 
 伸出你的**食指**，在畫面中的紅框寫下你的數字!
 
-![](https://github.com/willy610515/AI-course/blob/gh-pages/images/01.png)
+![](https://github.com/willy610515/AI-course/blob/gh-pages/images/01.png?raw=true)
 
 當寫清楚後就可以馬上辨識出來所寫的數字
 
 按下**R**鍵可以清除畫面上的筆跡
 
-![](https://github.com/willy610515/AI-course/blob/gh-pages/images/02.png)
+![](https://github.com/willy610515/AI-course/blob/gh-pages/images/02.png?raw=true)
 
 按下**Q**鍵可以離開程式
 ---
@@ -303,7 +303,7 @@ Github: [https://github.com/willy610515/AI-course/tree/gh-pages/In-air%20Handwri
 ---
 ### 系統測試及成果展示
 
-![](https://github.com/willy610515/AI-course/blob/gh-pages/images/test.gif)
+![](https://github.com/willy610515/AI-course/blob/gh-pages/images/test.gif?raw=true)
 ---
 ### 參考資料
 
