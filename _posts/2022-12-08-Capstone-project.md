@@ -9,8 +9,12 @@ tags: [jekyll, ai]
 空中手寫數字辨識 In-air Handwriting Digit Recognition
 
 ---
+
 ## 期末實作描述
 透過**MediaPipe**在畫面上寫下數字，並透過**MNIST-CNN**辨識出寫下的數字
+
+---
+
 ### 系統簡介及功能說明
 
 伸出你的**食指**，在畫面中的紅框寫下你的數字!
@@ -24,7 +28,9 @@ tags: [jekyll, ai]
 ![](https://github.com/willy610515/AI-course/blob/gh-pages/images/02.png?raw=true)
 
 按下**Q**鍵可以離開程式
+
 ---
+
 ### 使用技術簡介
 
 ## MediaPipe
@@ -54,6 +60,7 @@ MNIST 是 Modified National Institute of Standards and Technology database 的�
 ![](https://datasciocean.tech/wp-content/uploads/2022/02/MNIST-Dataset.jpg)
 
 ---
+
 ### 製作步驟
 
 1. 使用MNIST 資料集在Kaggle上訓練模型
@@ -63,6 +70,7 @@ MNIST 是 Modified National Institute of Standards and Technology database 的�
 5. 辨識手寫數字
 
 ---
+
 ### 程式說明
 
 ## MNIST-CNN訓練模型
@@ -301,10 +309,13 @@ img_num = np.zeros((h,w,4), dtype='uint8')       # 繪製全黑背景，尺寸�
 
 Github: [https://github.com/willy610515/AI-course/tree/gh-pages/In-air%20Handwriting%20Digit%20Recognition](https://github.com/willy610515/AI-course/tree/gh-pages/In-air%20Handwriting%20Digit%20Recognition)
 ---
+
 ### 系統測試及成果展示
 
 ![](https://github.com/willy610515/AI-course/blob/gh-pages/images/test.gif?raw=true)
+
 ---
+
 ### 參考資料
 
 [Mediapipe 辨識手指，用手指在影片中畫圖](https://steam.oxxostudio.tw/category/python/ai/ai-mediapipe-finger-draw.html)
